@@ -1,0 +1,9 @@
+.mat-column- {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.mat-header-cell {
+  justify-content: center;
+  text-align: center;
+}
